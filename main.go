@@ -1,5 +1,5 @@
 package main
-
+// тестовый комментарий
 import (
 	"fmt"
 )
